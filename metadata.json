@@ -1,0 +1,6 @@
+{
+  "name": "College Notice Board",
+  "description": "A digital college notice board where students and faculty can view, filter, and search academic and departmental notices, with administrative publishing and attachment handling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
